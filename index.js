@@ -28,9 +28,13 @@ const company = {
 }
 
 const companyStringfied = JSON.stringify(company);
-console.log(companyStringfied);
+// console.log(companyStringfied);
 
 const convert = JSON.parse(companyStringfied);
-console.log(convert);
+// console.log(convert);
 
+
+function loadData(){
+        
+}
 
